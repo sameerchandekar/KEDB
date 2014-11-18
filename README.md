@@ -1,4 +1,4 @@
 KEDB
 ====
 
-First repository
+First repository on github
