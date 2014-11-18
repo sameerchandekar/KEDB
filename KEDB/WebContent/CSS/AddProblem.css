@@ -1,0 +1,34 @@
+.form_styles
+{
+	padding: 2px;
+	font: bold;
+	font-size: large;
+	font-family:calibri;
+}
+.form_label
+{
+	padding:5px;
+	font-size:x-large;
+	
+	font-family:calibri;
+	font-weight: 700;
+}
+#submit{
+	border: thick;
+	background-color: black;
+	color: white;
+	font-size: x-large;
+	font-weight: 900;
+	cursor: pointer;
+	padding: 10px;
+	float:right;
+}
+#submit:hover{
+	border: thick;
+	background-color: gray;
+	color: red;
+	font-size: x-large;
+	font-weight: 900;
+	cursor: pointer;
+	padding: 10px;
+}

@@ -1,0 +1,66 @@
+.form_styles
+{
+	padding: 2px;
+	font: bold;
+	font-size:medium;
+	font-family:calibri;
+}
+.form_label
+{
+	padding:5px;
+	font-size:medium;
+	font-family:calibri;
+	font-weight: 700;
+}
+
+.form_label1
+{
+	padding:5px;
+	font-size:medium;
+	font-family:;
+	font-weight: lighter;
+}
+#modify{
+	border:sloid;
+	background-color:#b8d1f3;
+	color: black;
+	font-size:small;
+	font-weight: 900;
+	cursor: pointer;
+	padding: 5px;
+	
+	
+}
+#modify:hover{
+	border: thick;
+	background-color: gray;
+	color: white;
+	font-size:small;
+	font-weight: 900;
+	cursor: pointer;
+	padding: 5px;
+	border:sloid;
+	
+}
+#delete{
+	border:sloid;
+	background-color:#b8d1f3;
+	color: black;
+	font-size:small;
+	font-weight: 900;
+	cursor: pointer;
+	padding: 5px;
+	
+	
+}
+#delete:hover{
+	border: thick;
+	background-color: red;
+	color: white;
+	font-size:small;
+	font-weight: 900;
+	cursor: pointer;
+	padding: 5px;
+	border:sloid;
+	
+}

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: syntel
+Build-Jdk: 1.6.0_18-ea
+Created-By: Maven Integration for Eclipse
+

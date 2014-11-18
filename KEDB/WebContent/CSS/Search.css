@@ -1,0 +1,110 @@
+.TFtable{
+		width:100%; 
+		border-collapse:collapse; 
+	}
+	.TFtable td{ 
+		padding:7px; border:#4e95f4 1px solid;
+	}
+	/* provide some minimal visual accomodation for IE8 and below */
+	.TFtable tr{
+		background: #b8d1f3;
+	}
+	/*  Define the background color for all the ODD background rows  */
+	.TFtable tr:nth-child(odd){ 
+		background: #b8d1f3;
+	}
+	/*  Define the background color for all the EVEN background rows  */
+	.TFtable tr:nth-child(even){
+		background: #dae5f4;
+	}
+	
+	
+	
+.form_styles
+{
+	padding: 2px;
+	font: bold;
+	font-size:small;
+	font-family:calibri;
+	width:200px;
+}
+.form_label
+{
+	padding:5px;
+	font-size:medium;
+	
+	font-family:calibri;
+	font-weight: 700;
+}
+#submit{
+	border: thick;
+	background-color: black;
+	color: white;
+	font-size: large;
+	font-weight: 900;
+	cursor: pointer;
+	padding: 10px;
+}
+#submit:hover{
+	border: thick;
+	background-color: gray;
+	color: red;
+	font-size: large;
+	font-weight: 900;
+	cursor: pointer;
+	padding: 10px;
+}
+
+
+.form_styles_adv
+{
+	padding: 5px;
+	font: bold;
+	font-size:large;
+	font-family:calibri;
+	width: 400px;
+	height: 40px;
+	
+	
+}
+
+#submit_adv{
+	border: thick;
+	background-color: #0F7999;
+	color: white;
+	font-size: large;
+	font-weight: 900;
+	cursor: pointer;
+	padding: 12px;
+	border: 3px solid #0F7999;
+}
+#submit_adv:hover{
+	border: thick;
+	background-color: gray;
+	color: red;
+	font-size: large;
+	font-weight: 900;
+	cursor: pointer;
+	padding: 12px;
+	border: 3px solid #0F7999;
+}
+
+
+.css_corner {
+    border-radius: 10px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border: 3px solid #0F7999;
+    padding: 5px;
+    width: 553px;
+    height: 40px;
+    background-color:;
+    color: #000000;
+    font: bold;
+	font-size:large;
+	
+}
+
+
+
+
