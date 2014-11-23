@@ -66,8 +66,7 @@
 			<name>Archiva Managed internal Repository</name>
 			<url>http://localhost:9090/repository/snapshots</url>
 	</snapshotRepository>
-   
-   		
+
   </distributionManagement>
   
 </project>

@@ -1,5 +1,5 @@
 
-/*class*/
+//this is connection class
 package com.kedb.jdbc;
 import java.sql.*;
 
