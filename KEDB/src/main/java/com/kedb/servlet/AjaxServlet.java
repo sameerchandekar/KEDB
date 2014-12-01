@@ -58,7 +58,7 @@ public class AjaxServlet extends HttpServlet {
 			System.out.println("INSIDE AJAX E2E");
 			v1=op.getApp(E2E);
 			Iterator<String[]> it=v1.iterator();
-			pw.print("<span>Application :<select id='APP' name='APP' onchange=\"getWorkGroup(this);\" class=\"form_styles\">");
+			pw.print("<span>Application :<select id='APP1' name='APP' onchange=\"getWorkGroup(this);\" class=\"form_styles\">");
 			pw.print("<option>--select--</option>");
 			while(it.hasNext())
 			{
