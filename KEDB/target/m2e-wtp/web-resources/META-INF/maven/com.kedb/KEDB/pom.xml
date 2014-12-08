@@ -103,7 +103,6 @@
 			
 		</extensions>
   </build>
-  
    <distributionManagement>
    <repository>
 			<id>internal</id>
