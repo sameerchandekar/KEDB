@@ -111,6 +111,4 @@
   <reporting>
     <outputDirectory>/target/site</outputDirectory>
   </reporting>
-  
-  
 </project>
