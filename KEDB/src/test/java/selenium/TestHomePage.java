@@ -347,6 +347,9 @@ public void setupDriver()
 			System.out.println("LogOutChecks test case is passed.."+LogOut_Value);
 
 
-	  }*/}
+	  }*/
+	
+
+}
 	
 	

@@ -103,7 +103,7 @@
 			
 		</extensions>
   </build>
-   <distributionManagement>
+  <distributionManagement>
    <repository>
 			<id>internal</id>
       		<name>Archiva Managed internal Repository</name>											
@@ -115,7 +115,11 @@
 			<url>http://localhost:9090/repository/snapshots</url>
 	</snapshotRepository>
   </distributionManagement>
+  
+  
   <reporting>
     <outputDirectory>/target/site</outputDirectory>
   </reporting>
+  
+  
 </project>
